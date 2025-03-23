@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Harsha
 - 🌱 I’m currently learning Deep Learning, Neural Networks, NLP, LLMs, AI agents.
-- ✨ Languages and Tools: Python | SQL | Pytorch | TensorFLow | Keras | Transformers | Tableau
-- 🔭 I’m currently working on building a strong profile to make a career in AI/ML industry.
+- ✨ Languages and Tools: Python | SQL | NumPy | Pandas | Scikit-learn | Tableau | Google Colab | Jupyter | Visual Studio | AWS (SageMaker, Lambda, EC2)
+- ✨ AI and Deep Learning Frameworks: TensorFlow | PyTorch | Keras | LangGraph | LlamaIndex | SmolAgent
+- 🔭 I’m currently working on building a strong profile to break into AI/ML industry.
 - 😄 I love reading thriller novels, watching anime and mind boggling TV series.
 - ⚡ Fun fact: I am a polyglot and can speak 6 languages.
 <!--
