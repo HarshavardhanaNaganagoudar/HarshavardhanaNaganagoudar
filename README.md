@@ -1,10 +1,23 @@
-### Hi there 👋, I am Harsha
-- 🌱 I’m currently learning Deep Learning, Neural Networks, NLP, LLMs, AI agents.
-- ✨ Languages, Tools and Libraries: Python | SQL | NumPy | Pandas | Scikit-learn | Tableau | Colab | Jupyter | Visual Studio | AWS
-- ✨ AI and Deep Learning Frameworks: TensorFlow | PyTorch | Keras | LangGraph | LlamaIndex | SmolAgent
-- 🔭 I’m currently working on building a strong profile to break into AI/ML industry.
-- 😄 I love reading thriller novels, watching anime and mind boggling TV series.
-- ⚡ Fun fact: I am a polyglot and can speak 6 languages.
+# Hi there, I'm Harsha 👋
+
+🌱 I’m currently deepening my expertise in **Deep Learning, Neural Networks, NLP, LLMs, and AI Agents**.  
+🔭 My focus is on building a strong foundation to transition into the **AI/ML industry**.  
+
+---
+
+### ⚡ Skills & Tools  
+- **Programming & Data**: Python, SQL, NumPy, Pandas, Scikit-learn  
+- **AI & Deep Learning**: PyTorch, TensorFlow, Keras  
+- **Agent & LLM Ecosystem**: LangGraph, LlamaIndex, SmolAgent  
+- **Other Tools**: Tableau, Jupyter, Colab, AWS, Visual Studio Code  
+
+---
+
+### 🌟 A Little About Me  
+📚 Passionate about **thriller novels**  
+🎬 Enthusiast of **anime and thought-provoking TV series**  
+🗣️ Fun fact: I’m a **polyglot, fluent in six languages**  
+
 <!--
 **HarshavardhanaNaganagoudar/HarshavardhanaNaganagoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
