@@ -1,30 +1,34 @@
 # Hi there, I'm Harsha 👋
 
-AI/ML Engineer building intelligent systems with LLMs and autonomous AI agents. 6+ years in software engineering, now focused on Deep Learning, NLP, and next-gen Agentic AI architectures.  
+AI/ML Engineer building intelligent systems with LLMs, Deep Learning, and Agentic AI. With 6+ years of software engineering experience, I'm now focused on developing AI applications, training language models, and building autonomous AI agents.
 
----
+## ⚡ Tech Stack
 
-### ⚡ Tech Stack  
-- **Languages**: Python, SQL 
-- **ML / AI**: TensorFlow, PyTorch, NLP, LLMs, Reinforcement Learning 
-- **Agents & LLM Systems**: LangChain, LangGraph, SmolAgent, Deep Agents, Skill-Based Agents, Model Context Protocol (MCP)  
-- **Data & Tools**: NumPy, Pandas, Scikit-learn, Hugging Face, Jupyter
-- **Cloud & Dev**: Git, AWS  
+**Languages:** Python, SQL
 
----
+**AI / ML:** PyTorch, TensorFlow, Deep Learning, NLP, LLMs, Reinforcement Learning
 
-### 🌱 Current Focus
-- LLM-powered applications
-- Agentic AI systems
-- Skill-Based Agents
-- MCP-based agent architectures
+**LLMs & Agents:** LangChain, LangGraph, SmolAgent, Deep Agents, Model Context Protocol (MCP)
 
----
+**Libraries & Tools:** Transformers, TRL, Unsloth, Hugging Face, Scikit-learn, NumPy, Pandas, Jupyter
 
-### 🌟 Beyond Tech
-- 📚 Thriller novels & psychological mysteries
-- 🎬 Anime and mind-bending sci-fi
-- 🗣️ Polyglot — fluent in six languages
+**Cloud & Dev:** Git, AWS
+
+## 🌱 Current Focus
+
+- Training and fine-tuning LLMs
+- Agentic AI and multi-agent systems
+- Reinforcement Learning
+- Model Context Protocol (MCP)
+- Open-source AI
+
+## 🌟 Beyond Tech
+
+📚 Thriller novels & psychological mysteries
+
+🎬 Anime, sci-fi, and strategy games
+
+🗣️ Fluent in six languages
 
 <!--
 **HarshavardhanaNaganagoudar/HarshavardhanaNaganagoudar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
