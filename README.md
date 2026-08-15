@@ -1,16 +1,18 @@
 # Hi there, I'm Harsha 👋
 
-AI/ML Engineer building intelligent systems with LLMs, Deep Learning, and Agentic AI. With 6+ years of software engineering experience, I'm now focused on developing AI applications, training language models, and building autonomous AI agents.
+Software Engineer with 6+ years of experience in software testing and automation, transitioning into AI/ML through
+hands-on development of LLMs, deep learning models, reinforcement learning, and AI agents. Skilled in Python, PyTorch,
+TensorFlow, NLP, and modern LLM frameworks for building intelligent AI systems.
 
 ## ⚡ Tech Stack
 
 **Languages:** Python, SQL
 
-**AI / ML:** PyTorch, TensorFlow, Deep Learning, NLP, LLMs, Reinforcement Learning
+**AI / ML:** PyTorch, TensorFlow, Deep Learning, NLP, LLMs, Reinforcement Learning, AI Alignment
 
-**LLMs & Agents:** LangChain, LangGraph, SmolAgent, Deep Agents, Model Context Protocol (MCP)
+**LLMs & Agents:** LangChain, LangGraph, Deep Agents, Model Context Protocol (MCP)
 
-**Libraries & Tools:** Transformers, TRL, Unsloth, Hugging Face, Scikit-learn, NumPy, Pandas, Jupyter
+**Libraries & Tools:** Transformers, TRL, Unsloth, Hugging Face, Scikit-learn, NumPy, Pandas, Jupyter, Ollama
 
 **Cloud & Dev:** Git, AWS
 
@@ -19,6 +21,7 @@ AI/ML Engineer building intelligent systems with LLMs, Deep Learning, and Agenti
 - Training and fine-tuning LLMs
 - Agentic AI and multi-agent systems
 - Reinforcement Learning
+- AI Alignment
 - Model Context Protocol (MCP)
 - Open-source AI
 
