@@ -19,7 +19,7 @@ Software Engineer with 6+ years of experience in software testing and automation
 - Training and fine-tuning LLMs
 - Agentic AI and multi-agent systems
 - Reinforcement Learning
-- AI Alignment
+- AI Alignment and Interpretability
 - Model Context Protocol (MCP)
 - Open-source AI
 
