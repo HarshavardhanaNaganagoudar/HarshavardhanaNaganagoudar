@@ -1,14 +1,12 @@
 # Hi there, I'm Harsha 👋
 
-Software Engineer with 6+ years of experience in software testing and automation, transitioning into AI/ML through
-hands-on development of LLMs, deep learning models, reinforcement learning, and AI agents. Skilled in Python, PyTorch,
-TensorFlow, NLP, and modern LLM frameworks for building intelligent AI systems.
+Software Engineer with 6+ years of experience in software testing and automation, transitioning into AI/ML through hands-on development of LLMs, deep learning models, reinforcement learning, AI agents, and AI alignment & interpretability experiments. Skilled in Python, PyTorch, TensorFlow, NLP, and modern LLM frameworks for building and evaluating intelligent AI systems.
 
 ## ⚡ Tech Stack
 
 **Languages:** Python, SQL
 
-**AI / ML:** PyTorch, TensorFlow, Deep Learning, NLP, LLMs, Reinforcement Learning, AI Alignment
+**AI / ML:** PyTorch, TensorFlow, Deep Learning, NLP, LLMs, Reinforcement Learning, AI Alignment, Interpretability
 
 **LLMs & Agents:** LangChain, LangGraph, Deep Agents, Model Context Protocol (MCP)
 
